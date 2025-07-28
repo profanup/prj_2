@@ -1,1 +1,2 @@
-# prj_2
+prj_2
+This is new project
